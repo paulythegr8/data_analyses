@@ -1,6 +1,5 @@
 from collection_functions import *
 from atla_collection import *
-from analysis_functions import *
 import csv
 
 headers = ['season', 'episode_number_in_season', 'episode_number_overall', 'title', 'writers', 'directors', 'animation_studio', 'release_date', 'ratings', 'total_votes_on_ratings']
