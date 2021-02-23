@@ -65,6 +65,4 @@ for episode in atla_episode_titles:
     atla_all_scripts[episode] = collect_transcripts(url)
 
 
-#troubleshooting done
-
 
