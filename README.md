@@ -2,7 +2,7 @@
 Welcome!! This is the repository where I will flex my analyst and data science skills :)
 
 Currently I am working on the following:
-* Avatar: The Last Airbender Basic Analysis (Using data analysis techniques to explore the shows ratings and what affected them) (Currently accessible via the atla_analysis.ipynb notebook file)
+* Avatar: The Last Airbender Basic Analysis (Using data analysis techniques to explore the shows ratings and what affected them) (Currently accessible via the atla_analysis.ipynb notebook file or this link: https://paulythegr8.github.io/data_analyses/docs/atla_analysis.html)
 
 And in the future I will be adding
 * Avatar: The Legend of Korra Basic Analysis
